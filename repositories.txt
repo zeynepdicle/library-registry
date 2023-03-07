@@ -1,3 +1,4 @@
+https://github.com/facchinm/USBHostMbed5
 https://github.com/PowerBroker2/UM7
 https://github.com/btomaev/Segma
 https://github.com/mogel77/Jobber
@@ -5099,6 +5100,7 @@ https://github.com/fellipecouto/ShiftOutMega
 https://github.com/fellipecouto/MemoryLib.h
 https://github.com/MicroBeaut/MicroBeaut
 https://github.com/MicroBeaut/MicroBeaut-RepeatButton
+https://github.com/MicroBeaut/MicroBeaut-TCone
 https://github.com/fellipecouto/MillisTimerLib
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/akkoyun/Console
@@ -5627,3 +5629,4 @@ https://github.com/ochiengotieno304/africastalking-esp8266
 https://github.com/scottchiefbaker/ESP-WebOTA
 https://github.com/afpineda/MeanAndVarOnTheFly-Arduino
 https://github.com/Duckle29/HUSB238
+https://github.com/galjonsfigur/PD243x-DotMatrixDisplay
